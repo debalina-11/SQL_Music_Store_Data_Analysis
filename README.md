@@ -1,1 +1,3 @@
-# SQL_Music_Store_Data_Analysis
+Database and Tools
+Postgre SQL
+PgAdmin4
